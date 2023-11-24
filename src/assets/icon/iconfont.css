@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4321107 */
+  src: url('iconfont.woff2?t=1700136820379') format('woff2'),
+       url('iconfont.woff?t=1700136820379') format('woff'),
+       url('iconfont.ttf?t=1700136820379') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+[class^="el-icon-third"], [class*=" el-icon-third"]/*这里有空格*/
+
+{
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-third086tanmuclose:before {
+  content: "\e65b";
+}
+
+.el-icon-third087tanmuopen:before {
+  content: "\e65c";
+}
+
+.el-icon-thirddanmukaiqi:before {
+  content: "\e613";
+}
+
+.el-icon-thirddanmuguanbi:before {
+  content: "\e614";
+}
+
+.el-icon-thirdcopy:before {
+  content: "\e83a";
+}
+
+.el-icon-thirdchange:before {
+  content: "\e88c";
+}
+
+.el-icon-thirdbad-fill:before {
+  content: "\e838";
+}
+
+.el-icon-thirdbad:before {
+  content: "\e839";
+}
+
+.el-icon-thirdgood-fill:before {
+  content: "\e83b";
+}
+
+.el-icon-thirdgood:before {
+  content: "\e83c";
+}
+
