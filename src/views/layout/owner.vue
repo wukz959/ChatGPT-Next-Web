@@ -24,13 +24,8 @@
 
 <script>
 import BlogNotes from '@/components/BlogNotes'
-import { testReq } from '@/api/owner'
 export default {
   name: 'Owner',
-  async created () {
-    const res = await testReq()
-    console.log(res)
-  },
   components: {
     BlogNotes
   }
